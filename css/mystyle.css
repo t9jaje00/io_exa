@@ -30,3 +30,16 @@ margin-left: 160px;
 #footer{
   background-color: red;
 }
+.myforms{
+  border-color: black;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 20px;
+  width: 200px;
+}
+#sourceForm{
+  background-color: yellow;
+}
+#targetForm{
+  background-color: lightgreen;
+}
